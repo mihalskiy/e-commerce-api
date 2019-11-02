@@ -52,7 +52,7 @@
     "mysql": "2.13.0",
     "pg-hstore": "^2.3.2",
     "request": "^2.75.0",
-    "sequelize": "^3.24.3",
+    "sequelize": "^5.15.1",
     "stripe": "^4.11.0"
   }
 }
