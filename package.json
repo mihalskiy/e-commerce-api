@@ -33,7 +33,7 @@
     "supertest": "^2.0.0"
   },
   "dependencies": {
-    "bcrypt": "^0.8.7",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.4.6",
     "body-parser": "^1.15.2",
     "cloudinary": "^1.4.3",
