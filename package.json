@@ -39,7 +39,7 @@
     "cloudinary": "^1.4.3",
     "compression": "^1.6.2",
     "cors": "^2.8.1",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "express-jwt": "^5.1.0",
     "helmet": "^2.3.0",
     "istanbul": "^0.4.5",
